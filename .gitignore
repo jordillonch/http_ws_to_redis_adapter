@@ -1,0 +1,4 @@
+*.test
+!.env.test
+*.out
+build
